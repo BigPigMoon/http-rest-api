@@ -6,6 +6,7 @@
 - https://www.youtube.com/watch?v=LxJLuW5aUDQ
 - https://www.youtube.com/watch?v=7oEZaljP7uY
 - https://www.youtube.com/watch?v=vK8UY9fqLSY
+- https://www.youtube.com/watch?v=vDHWUtkPzW4
 
 ## Deps
 - https://github.com/sirupsen/logrus
